@@ -1,4 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neelk-blue)](https://linkedin.com/in/neelk)
+[![PyPI version](https://badge.fury.io/py/patra-toolkit.svg)](https://pypi.org/project/patra-toolkit/)
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
