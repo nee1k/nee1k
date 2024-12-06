@@ -1,5 +1,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neelk-blue)](https://linkedin.com/in/neelk)
-[![PyPI version](https://badge.fury.io/py/patra-toolkit.svg)](https://pypi.org/project/patra-toolkit/)
 
 **Programming Languages:** Python, R, HTML, CSS JavaScript, Java, Bash, GraphQL, Cypher
 
